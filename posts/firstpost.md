@@ -16,7 +16,7 @@ When I first looked into the brief, it was important for me to think of commmuni
 
 To brainstorm specific features, we created a user persona for our group to help us narrow down and think of specific features that would be helpful to the demographic. We wanted to design for a user that wants to network whilst also getting better at their skills in badminton, someone that isn’t too beginner but rather a person who wants to upscale their skills whilst also meeting new people. We found that looking at current forms of social clubs include facebook groups, meetup websites or instagram pages helped us brainstorm gaps in the market. 
 
-<img width="1247" height="632" alt="Image" src="https://github.com/user-attachments/assets/0f3ad976-07f5-4db3-810b-a3d18c185464" />
+<img width="800" height="632" alt="Image" src="https://github.com/user-attachments/assets/0f3ad976-07f5-4db3-810b-a3d18c185464" />
 
 We found that a website that allowed users to join social clubs without the need of contacting the organiser would help a lot of people feel less overwhelmed. There is usually a skill check that the organiser asks for each person which can be intimidating for users to confirm. We were thinking of ways a social club can be joined without that barrier. 
 
