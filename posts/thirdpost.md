@@ -13,6 +13,7 @@ tags:
 
 After finalising our teams wireframes, we created tickets in distributing our project's features within our team meeting. I am leading charge for the ‘map’ feature in the community blog, where members can search up the best courts provided with amenities such as parking, public transport availability and gear hire. This will significantly help users to choose courts depending on their preference with price and a booking link for each court. I was able to research further into what requirements I needed and created the tickets in our team kanban board. Using a kanban board will help members progress on our tasks for others to understand what we are up to, and create the check in process easier. 
 
+<img width="1000" height="573" alt="Screenshot 2026-05-09 at 3 35 53 pm" src="https://github.com/user-attachments/assets/c877bdfb-6e23-43f0-bc80-103132f37bbc" />
 
 
 # Creating data:
