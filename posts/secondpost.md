@@ -32,7 +32,13 @@ However, this decision introduces trade-offs. There could be potential skill mis
 These decisions will shape our technical requirements, where the system may need a database structure that links users, sessions, and skill levels. The profile visibility means our system must show the appropriate information stores about users e.g their number of attended events, skill level and bio of each profile. 
 
 
-Our group established our goals for the website with clear artifacts such as sitemaps to help us refer back to. We plan to finalise our design system by finalising fonts, cta buttons and colour scheme for our community. This will ensure the website will be consistent throughout when coding individually. We also came to finalising our wireframes this week, we initially designed them on mobile for our core design but soon realised organising events might be more preferable for users on desktop. 
+Our group established our goals for the website with clear artifacts such as sitemaps to help us refer back to. 
+
+<img width="450" height="575" alt="PNG image" src="https://github.com/user-attachments/assets/0542f65a-dd20-4520-b082-6f6372ff525f" />
+
+
+We plan to finalise our design system by finalising fonts, cta buttons and colour scheme for our community. This will ensure the website will be consistent throughout when coding individually. We also came to finalising our wireframes this week, we initially designed them on mobile for our core design but soon realised organising events might be more preferable for users on desktop. 
+
 
 ### Future steps
 After overviewing lo-fi wireframes, we transitioned to more detailed mid-fi on desktop before starting our coding. We delegated tasks, where I was assigned to the map. We need a database schema linking courts, number of courts inside, parking availability, renting equipment etc are information I need to make queryable attributes. Whilst understanding the basics in technical frameworks I need to utilise, I will research further within the week to understand the components I need to make this feature. 
