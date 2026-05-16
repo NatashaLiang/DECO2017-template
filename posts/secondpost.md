@@ -2,7 +2,7 @@
 title: Second Post!!
 date: 2026-04-25
 author: Natasha
-summary: Short description
+summary: Figuring out MVPs and wireframing
 tags:
   - tag1
   - tag2

@@ -2,7 +2,7 @@
 title: First post 
 date: 2026-04-17
 author: natasha
-summary: Hi this is my first blog post
+summary: Interpreting the brief and brainstorming features for community
 tags:
   - tag1
   - tag2
