@@ -1,3 +1,4 @@
+
 ---
 title: Second Post!!
 date: 2026-04-25
@@ -18,7 +19,10 @@ This week we were starting to come together, merging our individual work feature
 We started uncovering how to integrate the other features (forum) and (event) to the main homepage, for users to have a clear understanding of the community hub and its features for users to interact with. Whilst these were not features that I had to code, it was important for us as a group to discuss and re-align to ensure the home website would reflect the same features that were already built.
 
 
-I also (rookie mistake) didn’t double check the website URL for each booking site, where some websites for courts were linked correctly. Since the LLM created the CSV, the website URLs created were invalid. Due to the nature of CSV seeding the database I needed to correct these stored values. I thought of a few solutions, at first I thought I could re-import the CSV with the updated links without needing to create an update script, allowing me to mass edit them quickly. But the database was already live within the prototype, so to edit the csv, I added a **db.exec('DELETE')** command to temporarily wipe and reimport the updated data. This was a clean way to reseed faster offering efficiency over **SQL updating** each row. 
+I also (rookie mistake) didn’t double check the website URL for each booking site, where some websites for courts were linked correctly. Since the LLM created the CSV, the website URLs created were invalid. Due to the nature of CSV seeding the database I needed to correct these stored values. I thought of a few solutions, at first I thought I could re-import the CSV with the updated links without needing to create an update script, allowing me to mass edit them quickly. But the database was already live within the prototype, so to edit the csv, I added a **db.exec('DELETE')** command to temporarily wipe and edit the CSV data directly. This was a clean way to reseed faster offering efficiency over **SQL updating** each row. Whilst updating each court would ensure no data loss, this fix was efficient as we were still in the prototyping stage rather than a proper production that favoured clean data changes.
+
+
+<img width="806" height="519" alt="Screenshot 2026-05-18 at 10 36 46 pm" src="https://github.com/user-attachments/assets/4c216fa3-fb2b-4166-87e5-15c093b02c0c" />
 
 
 ### Profile page - navigating teammates code
@@ -30,4 +34,26 @@ I decided to add random profile colours for each user that signs up within the p
 ### Last MVP decisions, (Security & ethical considerations):
 We also made a final call on a feature we had debated from our initial development, whether to show other users' profiles to non-logged-in visitors. We were happy to confirm that we should restrict profile visibility to logged-in users only. Where users should be required to log-in before they have access to viewing other users. This aligns with our responsibility to handle user information appropriately. Though skill level and attendance count does seem like low-risk data, users should reasonably expect that information is only shared within the community for safety. 
 
+We looked back at our MoSCow framework from early stages in our project which helped a lot in understanding the scope of our project in aligning with our community members when we first identified their needs. 
+
+Must Have:
+- One tap RSVP system to reduce organisational friction
+- Skill level filtering and display to minimise mismatched games
+- Forum for Q&A and discussion to support organic community building
+- Location aware court map to reduce search friction
+- User profiles showing activity history to provide credibility and context
+
+Should Have
+- Photo uploads for event recaps
+- Notifications for RSVP updates or cancellations
+- Search functionality within the forum
+- Court review system
+
+Won't Have
+- Dedicated member browsing tab
+- Leaderboards or rankings
+
+We had all our must-haves stay the same, suggesting our early research on our user group (reducing intimiadation for people joining the community) was fairly accurate and designed with intention. But the products that were shaped the most were our 'court review system' in our "should haves", where we realised during the project scope this no longer aligned with our project. Whilst we first valued how important it intially could've been, mapping the data made us realise the complexity wasn't worth it especially if we already had an existing forum page with a similar function. Whilst the remaining should haves are unbuilt - the MVP of our prototype works well in the core user flow. 
+
+This helped us realise our assumptions weren't wrong, but rather the process revealed the importance of being specific and analyse trade-offs to get the best prototype possible when working with so many data layers. 
 
