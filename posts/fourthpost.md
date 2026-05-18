@@ -1,15 +1,15 @@
 ---
-title: Second Post!!
-date: 2026-04-25
+title: Fourth post
+date: 2026-04-16
 author: Natasha
-summary: Figuring out MVPs and wireframing
+summary: Pushing my map feature and extending existing code. Integrating, pushing our features together. 
 tags:
   - tag1
   - tag2
   - tag3
 ---
 
- Pushing my map feature and extending existing code. Integrating, pushing our features together. 
+ 
 # 4th Reflection: 
 
 This week we were starting to come together, merging our individual work features to a working website/prototype. Whilst I was building court maps independently, we found that our final features still needed working on despite the functionality meeting the MVP. We found that the overall website still needed UI changes to be made such as finalising our font and restyling the template pages to fit the community branding. With our merges made, we had a few functionality errors that we had to re-cover and ticket.
