@@ -1,4 +1,4 @@
-<img width="806" height="519" alt="Screenshot 2026-05-18 at 10 36 46 pm" src="https://github.com/user-attachments/assets/67bfd0d3-c366-425e-a01f-b374c7645d1b" />
+
 ---
 title: Fourth Post!!
 date: 2026-05-16
