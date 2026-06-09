@@ -1,4 +1,3 @@
-
 ---
 title: A3 Final reflection
 date: 2026-06-09
